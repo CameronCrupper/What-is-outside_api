@@ -1,0 +1,50 @@
+{
+  "name": "react-meme-generator-ts",
+  "version": "1.0.0",
+  "description": "Meme generator web app built with React, React hooks and TypeScript.",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CameronCrupper/What-is-outside_api"
+  },
+  "homepage": "https://github.com/CameronCrupper/What-is-outside_api",
+  "author": {
+    "name": "Cameron Crupper"
+  },
+  "engines": {
+    "node": ">=11.0.0",
+    "npm": ">=6.0",
+    "yarn": ">=1.16.0"
+  },
+  "keywords": [
+    "generator",
+    "meme",
+    "react",
+    "react-js"
+  ],
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "dom-to-image-more": "^2.8.0",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-scripts": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.11",
+    "@types/react-dom": "16.9.3",
+    "typescript": "3.6.4"
+  }
+}
