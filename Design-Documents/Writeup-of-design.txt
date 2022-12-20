@@ -1,1 +1,13 @@
-tetet
+This meme generator will allow you to generate png or jpg 
+image from HTML content. This content can be anything you
+ want. For this project, it will be a single image and two
+  headings, positioned absolutely on the image. The first
+   heading will be at the top of the image and the second 
+   will be at the bottom.
+
+You will be able to add the image in two ways. First, the 
+meme generator will fetch random image from api.imgflip.com.
+ Don’t worry, no token or registration required. Second, you
+  will be able to open image from your disk, using file input.
+   To generate the png or jpg file this meme generator will
+    use dom-to-image-more package.
